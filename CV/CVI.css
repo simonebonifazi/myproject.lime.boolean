@@ -1,0 +1,25 @@
+
+h1 {
+  color: black;
+  font-size: 25px;
+}
+img {
+ border-radius: 50%;
+}
+#chiusuraheader {
+  border-color: blue;
+}
+center {
+  background-color: grey;
+}
+
+h2 {
+   color: blue;
+ }
+ main {
+   padding: 25px;
+ }
+#testo {
+
+ border-color:gold skyblue;
+}
