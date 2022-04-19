@@ -1,0 +1,64 @@
+
+body{
+  background-image: url('https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg') ;
+
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.contenitore{
+  width: 50%;
+  margin: auto;
+  height: 100%;
+  margin-top: 50px;
+}
+
+.logo{
+  width: 100px;
+}
+
+.text-logo{
+  font-size: 50px;
+}
+
+h2{
+  margin: 0;
+  font-size: 20px;
+}
+
+#contatore{
+  color: black;
+  border-radius: 10px;
+  background-color: yellow;
+}
+
+.row{
+  background-color: grey;
+  border: 1px solid black;
+}
+
+.read{
+  background-color: white;
+  border: 1px solid black;
+}
+
+.row-left{
+  display: inline-block;
+  width: 40%;
+}
+.row-right{
+  display: inline-block;
+  width: 50%;
+  color: whitesmoke;
+}
+.star{
+  color: orange;
+}
+
+footer{
+  text-align: center;
+}
+
+#name-footer{
+  font-size: 20px
+}
