@@ -1,0 +1,92 @@
+/* sfondo */
+
+*{
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+body {
+background-image: url(../lime/assets/img/background.jpg);
+background-size:cover;
+background-repeat: no-repeat;
+}
+/* contenitore trasparente */
+.container {
+  height: 600px;
+  width: 65%;
+  margin: auto;
+  margin-top: 15px;
+  border-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+/* logo e testo del logo */
+.logo {
+  width: 163px;
+  margin: auto;
+  padding-top: 5%;
+}
+
+.text-logo{
+  font-size: x-large;
+  text-align: center;
+  color: lime;
+}
+/* barra di navigazione */
+.navigation-bar {
+  margin-left: 8%;
+  margin-right: 8%;
+  height: 30px;
+  background-color: lime;
+  text-align: center;
+}
+/* tasti */
+nav > input {
+  /* o in alternativa
+  input[type="button"] {
+  }  */
+  width: auto;
+  height: 60%;
+  margin-top: 0.8%;
+  font-size: 11px;
+  font-family: arial;
+}
+
+
+/* scelta monopattino */
+main {
+  margin-left: 8%;
+  color: white;
+}
+
+input[type="checkbox"] {
+  margin-top: 3%;
+  width: 10px;
+  height: 9px;
+}
+
+.monopattino {
+  font-size: larger;
+}
+
+.freccia {
+  font-size: smaller;
+}
+
+/* livello carica */
+main div {
+  border-radius: 5px;
+  height: 20px;
+}
+
+.carica {
+  margin-right: 65%;
+  background-color: sandybrown;
+}
+
+.carica-2 {
+  margin-right: 40%;
+  background-color: green;
+}
+.carica-3 {
+  margin-right: 85%;
+  background-color: rgba(210, 18, 40, 0.9);
+}
