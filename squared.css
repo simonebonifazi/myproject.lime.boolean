@@ -1,0 +1,30 @@
+body {
+  background-color: green;
+}
+
+.blue{
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  background: blue;
+  position: relative;
+}
+
+.red{
+  width: 30px;
+  height:30px;
+  background: red;
+}
+
+.little {
+  position: absolute;
+  bottom: 0;
+  right:0;
+}
+
+.squared.red {
+  position: absolute;
+  top: 10%;
+  left: 6%;
+  
+}
